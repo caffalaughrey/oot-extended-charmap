@@ -9,9 +9,11 @@ Contributions adding other characters welcome.
 
 ## Setup
 Note: because of how regularly OOT code changes are merged, it is recommended you apply this mod to the tree on which it
-was last successfully tested. You can get that by simply running:
+was last successfully tested. In this case, you can get it by simply running:
 ```bash
-git clone https://github.com/zeldaret/oot.git -b a9284494f2b6f53a0e8f95b5567faf1b2162e91c
+git clone https://github.com/zeldaret/oot.git
+cd oot
+git checkout a9284494f2b6f53a0e8f95b5567faf1b2162e91c
 ```
 
 #### 1. Follow the README.md instructions from the OOT repo
