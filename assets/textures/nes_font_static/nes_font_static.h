@@ -138,4 +138,10 @@ extern u64 gMsgCharA8ButtonCRightTex[];
 extern u64 gMsgCharA9ZTargetSignTex[];
 extern u64 gMsgCharAAControlStickTex[];
 extern u64 gMsgCharABControlPadTex[];
-
+// Begin extended chars
+extern u64 gMsgCharACLatinCapitalLetterIWithAcuteTex[];
+extern u64 gMsgCharADLatinCapitalLetterOWithAcuteTex[];
+extern u64 gMsgCharAELatinCapitalLetterUWithAcuteTex[];
+extern u64 gMsgCharAFLatinSmallLetterIWithAcuteTex[];
+extern u64 gMsgCharB0LatinSmallLetterOWithAcuteTex[];
+extern u64 gMsgCharB1LatinSmallLetterUWithAcuteTex[];

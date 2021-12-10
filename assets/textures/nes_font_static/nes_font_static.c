@@ -565,3 +565,26 @@ u64 gMsgCharABControlPadTex[] = {
 #include "assets/textures/nes_font_static/msg_char_ab_control_pad.i4.inc.c"
 };
 
+u64 gMsgCharACLatinCapitalLetterIWithAcuteTex[] = {
+#include "assets/textures/nes_font_static/msg_char_ac_latin_capital_letter_i_with_acute.i4.inc.c"
+};
+
+u64 gMsgCharADLatinCapitalLetterOWithAcuteTex[] = {
+#include "assets/textures/nes_font_static/msg_char_ad_latin_capital_letter_o_with_acute.i4.inc.c"
+};
+
+u64 gMsgCharAELatinCapitalLetterUWithAcuteTex[] = {
+#include "assets/textures/nes_font_static/msg_char_ae_latin_capital_letter_u_with_acute.i4.inc.c"
+};
+
+u64 gMsgCharAFLatinSmallLetterIWithAcuteTex[] = {
+#include "assets/textures/nes_font_static/msg_char_af_latin_small_letter_i_with_acute.i4.inc.c"
+};
+
+u64 gMsgCharB0LatinSmallLetterOWithAcuteTex[] = {
+#include "assets/textures/nes_font_static/msg_char_b0_latin_small_letter_o_with_acute.i4.inc.c"
+};
+
+u64 gMsgCharB1LatinSmallLetterUWithAcuteTex[] = {
+#include "assets/textures/nes_font_static/msg_char_b1_latin_small_letter_u_with_acute.i4.inc.c"
+};
